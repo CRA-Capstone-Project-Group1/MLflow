@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swapnilklkar/Documents/Experiment_tracking_with_MLflow/mlruns/292310891278106137/b6155b2f9aee44ee8b3b4d13d1907d96/artifacts
+end_time: 1721703581193
+entry_point_name: ''
+experiment_id: '292310891278106137'
+lifecycle_stage: active
+run_id: b6155b2f9aee44ee8b3b4d13d1907d96
+run_name: Initial Model Run
+run_uuid: b6155b2f9aee44ee8b3b4d13d1907d96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721703581184
+status: 4
+tags: []
+user_id: swapnilklkar
